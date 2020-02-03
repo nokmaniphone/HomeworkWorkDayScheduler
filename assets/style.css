@@ -1,0 +1,29 @@
+.body{
+  font-family: 'Times New Roman', Times, serif;
+}
+#calendar-container {
+
+  text-align: center;
+  font-size: 32px;
+  font-family: Arial;
+}
+ 
+#Schedule {
+
+  height: 150px;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+#date-month-year {
+  margin: 10px;
+}
+
+
+#thTime {
+  width: 80px;
+}
+
+#tdS {
+  width: 80px;
+}
